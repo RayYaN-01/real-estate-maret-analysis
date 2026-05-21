@@ -54,13 +54,16 @@ This project analyzes Hyderabad's real estate market using Python, MySQL, and Po
 ## Dashboard Preview
 
 ### Executive Market Overview
-![Dashboard1](images/page1.png)
+![Dashboard1](images/page1.png)<img width="1378" height="776" alt="page1" src="https://github.com/user-attachments/assets/901441e2-187a-4f84-8fc8-20206c1900a4" />
+
 
 ### Investment & Property Analytics
-![Dashboard2](images/page2.png)
+![Dashboard2](images/page2.png)<img width="1385" height="776" alt="page2" src="https://github.com/user-attachments/assets/d7701431-f9e0-48bb-9f22-a4d3e6eda3c4" />
+
 
 ### High Value Property Analysis
-![Dashboard3](images/page3.png)
+![Dashboard3](images/page3.png)<img width="1384" height="778" alt="page3" src="https://github.com/user-attachments/assets/511a6841-b30e-4fea-8087-2c93d31d3977" />
+
 
 ---
 
